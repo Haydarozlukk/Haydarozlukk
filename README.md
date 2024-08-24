@@ -1,14 +1,7 @@
 <h1 align="center">Let's Connect!</h1>
 
 <p align="center">
-  <div style="position: relative; display: inline-block;">
-    <a href="https://www.instagram.com/haydarozlukk">
-      <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-    </a>
-    <span style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0,0,0,0.5); color: white; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 12px;">
-      Kısa Süreliğine Kapalıyız
-    </span>
-  </div>
+  <a href="https://www.instagram.com/haydarozlukk"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://linkedin.com/in/haydarozlukk/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://x.com/haydarozlukk"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
