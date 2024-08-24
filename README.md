@@ -24,6 +24,6 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
-<h2 align="center">Contact Us</h2>
+<h2 align="center">Contact With Me</h2>
 
-<p align="center">For any inquiries, please email us at: <a href="mailto:haydarozlukk@gmail.com">haydarozlukk@gmail.com</a></p>
+<p align="center">For any inquiries, please email me at: <a href="mailto:haydarozlukk@gmail.com">haydarozlukk@gmail.com</a></p>
