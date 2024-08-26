@@ -27,3 +27,10 @@
 <h2 align="center">Contact With Me</h2>
 
 <p align="center">For any inquiries, please email me at: <a href="mailto:haydarozlukk@gmail.com">haydarozlukk@gmail.com</a></p>
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haydarozlukk&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haydarozlukk&layout=compact&theme=radical)
+
