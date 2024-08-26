@@ -30,10 +30,10 @@
 
 
 
-## 🌟 GitHub Stats
+# 🌟 GitHub Stats & Most Used Languages
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Haydarozlukk&show_icons=true&theme=radical)
+<div style="display: flex; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Haydarozlukk&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 45%; margin-right: 2%;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haydarozlukk&layout=compact&theme=radical" alt="Most Used Languages" style="width: 45%;" />
+</div>
 
-## 📊 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haydarozlukk&layout=compact&theme=radical)
