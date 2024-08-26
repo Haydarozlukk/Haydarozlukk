@@ -30,7 +30,10 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haydarozlukk&show_icons=true&theme=radical)
+## 🌟 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haydarozlukk&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Haydarozlukk&show_icons=true&theme=radical)
 
+## 📊 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haydarozlukk&layout=compact&theme=radical)
