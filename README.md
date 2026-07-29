@@ -30,5 +30,5 @@
 ---
 
 <p align="center">
-  <i>Yol uzun, niyet güzel.</i>
+  <i>Kendine uğramayan, nereye varsa ne; özünü görmeyen, âlemi görse ne?</i>
 </p>
