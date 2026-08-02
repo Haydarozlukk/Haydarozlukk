@@ -4,6 +4,7 @@
   <p><i>Working on backend systems and learning every day.</i></p>
 
   <p>
+    <a href="https://haydarozlukk.com.tr">🌐 Website</a> •
     <a href="https://linkedin.com/in/haydarozlukk/">LinkedIn</a> •
     <a href="https://x.com/haydarozlukk">Twitter</a> •
     <a href="https://medium.com/@haydarozlukk">Medium</a> •
