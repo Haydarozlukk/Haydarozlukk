@@ -1,35 +1,42 @@
-<div align="center">
-  <h1>Haydar Özlük</h1>
-  <p><b>Backend Developer | Java & Enterprise Systems</b></p>
-  <p><i>Working on backend systems and learning every day.</i></p>
 
-  <p>
-    <a href="https://haydarozlukk.com.tr">🌐 Website</a> •
-    <a href="https://linkedin.com/in/haydarozlukk/">LinkedIn</a> •
-    <a href="https://x.com/haydarozlukk">Twitter</a> •
-    <a href="https://medium.com/@haydarozlukk">Medium</a> •
-    <a href="mailto:haydarozlukk@gmail.com">Email</a>
-  </p>
+<div align="center">
+
+# Haydar Özlük
+
+**Backend Developer · Java & Enterprise Systems**
+
+Building maintainable backend services and connecting complex enterprise systems.
+
+[Website](https://haydarozlukk.com.tr) · [LinkedIn](https://linkedin.com/in/haydarozlukk/) · [X](https://x.com/haydarozlukk) · [Medium](https://medium.com/@haydarozlukk) · [Email](mailto:haydarozlukk@gmail.com)
+
 </div>
 
 ---
 
-### 📌 About
+### About
 
-- 🏢 Backend Developer @ **TOKİ**
-- 🎓 B.Sc. in Computer Engineering
-- ⚙️ Focused on scalable Java architectures, system integration, and database optimization.
+- Backend Developer at **TOKİ**
+- B.Sc. in **Computer Engineering**
+- Focused on Java architectures, system integration, and database performance.
+
+### Tech Stack
+
+**Backend & APIs**  
+Java · Spring Boot · Hibernate · REST / SOAP
+
+**Databases & Caching**  
+Oracle SQL · PostgreSQL · Redis
+
+**Messaging & Infrastructure**  
+Apache Kafka · Docker · JBoss · Nginx
+
+**Development Tools**  
+Git · Maven
 
 ---
 
-### 🛠 Tech Stack
+<div align="center">
 
-- **Backend:** Java • Spring Boot • Hibernate • REST / SOAP
-- **Databases:** Oracle SQL • PostgreSQL • Redis
-- **Messaging & Tools:** Apache Kafka • Docker • Git • Maven • JBoss • Nginx
+*Kendine uğramayan, nereye varsa ne; özünü görmeyen, âlemi görse ne?*
 
----
-
-<p align="center">
-  <i>Kendine uğramayan, nereye varsa ne; özünü görmeyen, âlemi görse ne?</i>
-</p>
+</div>
